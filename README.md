@@ -51,3 +51,4 @@ mean=df.Close.resample('Y').mean().plot(kind="bar")
 
 ![img](https://user-images.githubusercontent.com/93427224/261832269-e34d281f-9228-443b-a413-dd7973a20966.png)
 ## Result:
+Thus the program to implement to Plot a timeseries data market price of a commodity is written and verified using python programming.
